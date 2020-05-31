@@ -1,0 +1,8 @@
+C:\Users\nguye\source\repos\Test\KidleTeam8\bin\Debug\KidleTeam8.exe.config
+C:\Users\nguye\source\repos\Test\KidleTeam8\bin\Debug\KidleTeam8.exe
+C:\Users\nguye\source\repos\Test\KidleTeam8\bin\Debug\KidleTeam8.pdb
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KidleTeam8.Properties.Resources.resources
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KidleTeam8.exe
+C:\Users\nguye\source\repos\Test\KidleTeam8\obj\Debug\KidleTeam8.pdb

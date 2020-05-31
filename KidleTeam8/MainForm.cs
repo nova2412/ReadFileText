@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace KidleTeam8
 {
-    public partial class MainFrom : Form
+    public partial class MainForm : Form
     {
-        public MainFrom()
+        public MainForm()
         {
             InitializeComponent();
         }
